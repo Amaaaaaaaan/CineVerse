@@ -6,7 +6,7 @@ const Sidenav = () => {
         <h1 className="text-2xl text-white font-bold max-md:text-sm max-md:mt-5 flex items-center">
           <img
             src="./src/assets/cineverse.png"
-            alt="CineVerse Logo"
+            alt="CineVerse Logooo"
             className="w-8 h-8 mr-2 max-md:w-5 max-md:h-5"
           />
           <span className="text-2xl max-md:text-sm text-white">CineVerse</span>
